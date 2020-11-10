@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "DynamicDns": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "",
+        "DOMAINS": "",
+        "AWS_ACCESS_KEY_ID": "",
+        "AWS_SECRET_ACCESS_KEY": "",
+        "AWS_REGION": ""
+      }
+    }
+  }
+}
